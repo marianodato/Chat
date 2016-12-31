@@ -29,4 +29,4 @@ The make command generates 3 executable files:
 8. Change MAX_CLIENTS variable in Server.h with the maximum amount of clients you want the server to support.
 9. Run makefile: `make`
 10. Run the Server program: `./Server`
-11. In the same or in other computers run the clients programs: Both `./Client` and `./Client_Messages` in the same PC.
+11. In the same or in other computers run the client programs: Both `./Client` and `./Client_Messages` in the same PC.
