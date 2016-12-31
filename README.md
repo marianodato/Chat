@@ -14,7 +14,7 @@ The make command generates 3 executable files:
 - You should run the Server program first and only once.
 - You can run the Client program as many times as clients you want to have.
 - For each Client program you run you should also run one Client_Messages program in the same computer.
-- You can run the all the executables in the same computer, or run the Server program in one computer and the Client programs in another one. You can also run all Client programs in different computers.
+- You can run the all the executables in the same computer, or run the Server program in one computer and the Client programs in another one. You can also run all the Client programs in different computers.
 - All computers must be inside the same LAN.
 
 ## Build and Run Instructions
